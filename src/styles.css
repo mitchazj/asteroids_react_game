@@ -1,0 +1,4 @@
+.yellow-filter {
+  filter: sepia(80%) blur(3px);
+  opacity: 0.3;
+}
